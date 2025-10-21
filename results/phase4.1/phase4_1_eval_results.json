@@ -1,0 +1,226 @@
+[
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "Clean",
+    "acc": 0.5175,
+    "roc_auc": 0.5459499999999999,
+    "tpr@1%fpr": 0.025,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "JPEG(50)",
+    "acc": 0.535,
+    "roc_auc": 0.58525,
+    "tpr@1%fpr": 0.035,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "H264-like",
+    "acc": 0.5675,
+    "roc_auc": 0.59065,
+    "tpr@1%fpr": 0.035,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "PGD",
+    "acc": 0.46,
+    "roc_auc": 0.446375,
+    "tpr@1%fpr": 0.0,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "U-Net",
+    "acc": 0.5425,
+    "roc_auc": 0.5653999999999999,
+    "tpr@1%fpr": 0.01,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "U-Net + JPEG(50)",
+    "acc": 0.5575,
+    "roc_auc": 0.5975999999999999,
+    "tpr@1%fpr": 0.08,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "U-Net + H264-like",
+    "acc": 0.5975,
+    "roc_auc": 0.594875,
+    "tpr@1%fpr": 0.03,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "Clean",
+    "acc": 0.8914728682170543,
+    "roc_auc": 0.9603208556149733,
+    "tpr@1%fpr": 0.5508021390374331,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "JPEG(50)",
+    "acc": 0.7235142118863049,
+    "roc_auc": 0.7921657754010696,
+    "tpr@1%fpr": 0.1443850267379679,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "H264-like",
+    "acc": 0.7493540051679587,
+    "roc_auc": 0.8582352941176471,
+    "tpr@1%fpr": 0.3422459893048128,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "PGD",
+    "acc": 0.4806201550387597,
+    "roc_auc": 0.43326203208556147,
+    "tpr@1%fpr": 0.0,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "U-Net",
+    "acc": 0.8552971576227391,
+    "roc_auc": 0.947807486631016,
+    "tpr@1%fpr": 0.6096256684491979,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "U-Net + JPEG(50)",
+    "acc": 0.7054263565891473,
+    "roc_auc": 0.7945187165775401,
+    "tpr@1%fpr": 0.20855614973262032,
+    "model": "baseline"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "U-Net + H264-like",
+    "acc": 0.7571059431524548,
+    "roc_auc": 0.8325133689839571,
+    "tpr@1%fpr": 0.2994652406417112,
+    "model": "baseline"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "Clean",
+    "acc": 0.5125,
+    "roc_auc": 0.552325,
+    "tpr@1%fpr": 0.025,
+    "model": "robust"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "JPEG(50)",
+    "acc": 0.5325,
+    "roc_auc": 0.58975,
+    "tpr@1%fpr": 0.045,
+    "model": "robust"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "H264-like",
+    "acc": 0.57,
+    "roc_auc": 0.590175,
+    "tpr@1%fpr": 0.04,
+    "model": "robust"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "PGD",
+    "acc": 0.5125,
+    "roc_auc": 0.496025,
+    "tpr@1%fpr": 0.015,
+    "model": "robust"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "U-Net",
+    "acc": 0.5425,
+    "roc_auc": 0.5717249999999999,
+    "tpr@1%fpr": 0.01,
+    "model": "robust"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "U-Net + JPEG(50)",
+    "acc": 0.5575,
+    "roc_auc": 0.602175,
+    "tpr@1%fpr": 0.07,
+    "model": "robust"
+  },
+  {
+    "dataset": "Celeb-DF v2",
+    "scenario": "U-Net + H264-like",
+    "acc": 0.59,
+    "roc_auc": 0.59975,
+    "tpr@1%fpr": 0.035,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "Clean",
+    "acc": 0.8992248062015504,
+    "roc_auc": 0.9605347593582888,
+    "tpr@1%fpr": 0.5614973262032086,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "JPEG(50)",
+    "acc": 0.7157622739018088,
+    "roc_auc": 0.7944117647058824,
+    "tpr@1%fpr": 0.1497326203208556,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "H264-like",
+    "acc": 0.7571059431524548,
+    "roc_auc": 0.8587700534759358,
+    "tpr@1%fpr": 0.33689839572192515,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "PGD",
+    "acc": 0.49870801033591733,
+    "roc_auc": 0.49211229946524065,
+    "tpr@1%fpr": 0.016042780748663103,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "U-Net",
+    "acc": 0.8578811369509044,
+    "roc_auc": 0.9468716577540107,
+    "tpr@1%fpr": 0.6203208556149733,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "U-Net + JPEG(50)",
+    "acc": 0.710594315245478,
+    "roc_auc": 0.7966310160427809,
+    "tpr@1%fpr": 0.18716577540106952,
+    "model": "robust"
+  },
+  {
+    "dataset": "FF++ c23",
+    "scenario": "U-Net + H264-like",
+    "acc": 0.7545219638242894,
+    "roc_auc": 0.8352941176470589,
+    "tpr@1%fpr": 0.28342245989304815,
+    "model": "robust"
+  }
+]
