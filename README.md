@@ -1,4 +1,4 @@
-**Project page:** https://www.tashrifwala.com/projects/Deepfake-detection-html-1.html
+**Please visit the project page:** https://www.tashrifwala.com/projects/Deepfake-detection-html-1.html
 
 [![Hugging Face – Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/Shabbir1/robust-deepfake-detector)
 
